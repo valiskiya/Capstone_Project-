@@ -6,9 +6,8 @@ Penggunaan Asisten AI dalam Mengurangi Stres Akademik Mahasiswa
 
 2. Dataset Link (Publik):
 
-Sudah ada di laporan kamu, berikut adalah tautannya:
-
-Dataset AI Assistant Usage in Student Life - Kaggle
+https://www.kaggle.com/code/sonawanelalitsunil/ai-assistants-in-student-life-ml-48-1#Data-visaulizations
+https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic/data
 
 AI Assistants in Student Life - Kaggle
 
