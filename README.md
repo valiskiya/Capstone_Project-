@@ -2,7 +2,7 @@
 
 1. Judul Project:
 
-Penggunaan Asisten AI dalam Mengurangi Stres Akademik Mahasiswa
+Analisis Penggunaan Asisten AI dalam Mengurangi Stres Akademik Mahasiswa
 
 2. Dataset Link (Publik):
 
